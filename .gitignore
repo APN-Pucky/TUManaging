@@ -19,6 +19,7 @@ cookie*
 TUM.jar
 TUM-new.jar
 TUM-old.jar
+TUM-enc.jar
 *.sh
 *.exe
 config.json
