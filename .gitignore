@@ -25,6 +25,7 @@ config.json
 start.bat
 tuo
 tuo.json
+tum.json
 data/
 README.txt
 
