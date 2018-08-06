@@ -17,5 +17,5 @@ before_install:
 
 script:
 - git-crypt unlock tum-key
-- ant build
+- ant create_run_jar 
 
