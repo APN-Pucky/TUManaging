@@ -22,6 +22,8 @@ TUM-old.jar
 TUM-enc.jar
 *.sh
 *.exe
+*.csv
+*.tmp
 config.json
 start.bat
 tuo
@@ -29,6 +31,7 @@ tuo.json
 tum.json
 data/
 README.txt
+*.png
 
 # External tool builders
 .externalToolBuilders/
