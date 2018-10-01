@@ -4,6 +4,7 @@
 
 ### Eclipse ###
 
+release/
 .metadata
 bin/
 tmp/
