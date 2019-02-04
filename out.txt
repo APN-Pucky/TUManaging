@@ -1,0 +1,937 @@
+Your Deck:1: Deck: PV4HERhETiFKMh
+Dracorex Hivegod, Broodmother's Nexus, Oreworks, Saiph Starmaw
+Your BG Effect: CriticalReach
+Enemy's Deck:1: Raid #62 "Carnifex Returns Raid-25": CQ5CechCechMechMechWechWechKfchKfchKfchKfch
+Carnifex Returns-1, Carnifex Technician-1, Carnifex Technician-1, Carnifex Kerakal-1, Carnifex Kerakal-1, Carnifex Pryer-1, Carnifex Pryer-1, Carnifexicast-1, Carnifexicast-1, Carnifexicast-1, Carnifexicast-1 +96/99
+Enemy's BG Effect: CriticalReach
+RNG seed 637005456
+P0 Commander [Dracorex Hivegod hp:209] plays Structure 0 [Broodmother's Nexus: 74/4 mythic bloodthirsty, Weaken all 13, Sunder 13, Mimic 6]
+------------------------------------------------------------------------
+TURN 1 begins for P0 Commander [Dracorex Hivegod hp:209]
+P0 Structure 0 [Broodmother's Nexus hp:74 cd:4] reduces its timer
+P0 Commander [Dracorex Hivegod hp:209] plays Structure 1 [Oreworks: 50/1 raider, Enfeeble all 6, Strike all 6, Weaken all 12]
+TURN 1 ends for P0 Commander [Dracorex Hivegod hp:209]
+------------------------------------------------------------------------
+TURN 2 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Commander [Carnifex Returns hp:300] plays Assault 0 [Carnifex Technician: 15/100/0 mythic xeno, Disease 36, Venom 52, Flurry 3 every 2]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifex Technician att:[[15(base)]]=15 hp:100]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifex Technician att:[[15(base)]]=15 hp:100, Disease +28]
+P1 Assault 0 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:209] for 15 damage
+P1 Assault 0 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28] activates Flurry x 3
+P1 Assault 0 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:194] for 15 damage
+P1 Assault 0 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:179] for 15 damage
+P1 Assault 0 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:164] for 15 damage
+TURN 2 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 3 begins for P0 Commander [Dracorex Hivegod hp:149]
+P0 Structure 0 [Broodmother's Nexus hp:74 cd:3] reduces its timer
+P0 Structure 1 [Oreworks hp:50 cd:1] reduces its timer
+P0 Commander [Dracorex Hivegod hp:149] plays Assault 0 [Saiph Starmaw: 50/150/3 vindi progenitor, Evade 10, Drain 75, Berserk 75]
+P0 Commander [Dracorex Hivegod hp:149] Weaken 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:100, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:100, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:100, enfeebled 6, protected 20, Disease +28]
+TURN 3 ends for P0 Commander [Dracorex Hivegod hp:149]
+------------------------------------------------------------------------
+TURN 4 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Commander [Carnifex Returns hp:300] plays Assault 1 [Carnifexicast: 45/240/4 mythic xeno, (On Play)Summon Carnifex Starcore id[62441], Disease 110, (On Attacked)Enfeeble all 44]
+P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4] summons Carnifex Starcore
+P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4] plays Assault 2 [Carnifex Starcore: 33/215/3 mythic xeno, Disease 77, Counter 77, (On Attacked)Heal all 44]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned]
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] cannot take attack (zeroed)
+TURN 4 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 5 begins for P0 Commander [Dracorex Hivegod hp:149]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)]]=50 hp:150 cd:3] reduces its timer
+P0 Structure 0 [Broodmother's Nexus hp:74 cd:2] reduces its timer
+P0 Commander [Dracorex Hivegod hp:149] Weaken 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:100, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:100, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:100, enfeebled 6, protected 20, Disease +28]
+TURN 5 ends for P0 Commander [Dracorex Hivegod hp:149]
+------------------------------------------------------------------------
+TURN 6 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4] reduces its timer
+P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned] reduces its timer
+P1 Commander [Carnifex Returns hp:300] plays Assault 3 [Carnifexicast: 45/240/4 mythic xeno, (On Play)Summon Carnifex Starcore id[62441], Disease 110, (On Attacked)Enfeeble all 44]
+P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4] summons Carnifex Starcore
+P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4] plays Assault 4 [Carnifex Starcore: 33/215/3 mythic xeno, Disease 77, Counter 77, (On Attacked)Heal all 44]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned]
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] activates Flurry x 3
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] cannot take attack (zeroed)
+TURN 6 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 7 begins for P0 Commander [Dracorex Hivegod hp:149]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)]]=50 hp:150 cd:2] reduces its timer
+P0 Structure 0 [Broodmother's Nexus hp:74 cd:1] reduces its timer
+P0 Commander [Dracorex Hivegod hp:149] Weaken 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:100, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned, enfeebled 6, protected 20]
+TURN 7 ends for P0 Commander [Dracorex Hivegod hp:149]
+------------------------------------------------------------------------
+TURN 8 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3] reduces its timer
+P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned] reduces its timer
+P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4] reduces its timer
+P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned] reduces its timer
+P1 Commander [Carnifex Returns hp:300] plays Assault 5 [Carnifex Kerakal: 22/122/1 mythic xeno, Enfeeble all 22, Drain 90, (On Attacked)Jam 3]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:1, summoned]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]]=22 hp:122 cd:1]
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] cannot take attack (zeroed)
+TURN 8 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 9 begins for P0 Commander [Dracorex Hivegod hp:149]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)]]=50 hp:150 cd:1] reduces its timer
+P0 Commander [Dracorex Hivegod hp:149] Weaken 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:149] Weaken 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:1, summoned, protected 20]
+P0 Commander [Dracorex Hivegod hp:149] Weaken 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]]=22 hp:122 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:100, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:215 cd:1, summoned, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-6(temp)]=16 hp:122 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Sunder 13 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Mimic 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122 cd:1, sundered, protected 20]
+ * Mimicked skill: Enfeeble all 6
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122 cd:1, sundered, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122 cd:1, sundered, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122 cd:1, sundered, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, enfeebled 12, protected 20]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)]]=50 hp:150] attacks P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, enfeebled 12, protected 20, Disease +28] for 50+12(enfeebled)-[20(protected)]=42 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[75(perm)]]]=125 hp:150] swipes P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, enfeebled 12, protected 20] for 67 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[75(perm)]]]=125 hp:150] swipes P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215 cd:1, summoned, enfeebled 12, protected 20] for 67 damage
+TURN 9 ends for P0 Commander [Dracorex Hivegod hp:149]
+------------------------------------------------------------------------
+TURN 10 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:173 cd:2] reduces its timer
+P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:148 cd:1, summoned] reduces its timer
+P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3] reduces its timer
+P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned] reduces its timer
+P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122 cd:1, sundered] reduces its timer
+P1 Commander [Carnifex Returns hp:300] plays Assault 6 [Carnifex Pryer-7: 8/73/2 mythic xeno, Absorb 92, Disease 29, Mimic 51]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:58]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:148, summoned]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:58, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:173 cd:1]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:148, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:1, summoned]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 6 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92 cd:2]
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:58, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:58, protected 20, Disease +28] activates Flurry x 3
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:58, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:58, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:58, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:148, summoned, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:149] for 2 damage
+P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered, protected 20] Enfeeble 22 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[75(perm)]]]=125 hp:150] but it evades
+P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered, protected 20] cannot take attack (zeroed)
+TURN 10 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 11 begins for P0 Commander [Dracorex Hivegod hp:147]
+P0 Commander [Dracorex Hivegod hp:147] Weaken 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]]=15 hp:58, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:147] Weaken 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:173 cd:1, protected 20]
+P0 Commander [Dracorex Hivegod hp:147] Weaken 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:148, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:147] Weaken 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:1, summoned, protected 20]
+P0 Commander [Dracorex Hivegod hp:147] Weaken 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]]=22 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:58, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 1 [Carnifexicast att:[[45(base)]-6(temp)]=39 hp:173 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:148, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:215 cd:1, summoned, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-6(temp)]=16 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Sunder 13 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Mimic 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered, protected 20]
+ * Mimicked skill: Enfeeble all 6
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:58, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:173 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:148, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 6 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92 cd:2, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:58, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:173 cd:1, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:148, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 6 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92 cd:2, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:58, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:173 cd:1, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:148, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 6 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92 cd:2, enfeebled 12, protected 20]
+P1 Assault 6 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92 cd:2, enfeebled 12, protected 20] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 1 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:173 cd:1, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:148, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, enfeebled 12, protected 20]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[75(perm)]]]=125 hp:150] attacks P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:58, enfeebled 12, protected 20, Disease +28] for 125+12(enfeebled)-[20(protected)]=117 damage
+P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:0, enfeebled 12, protected 20, Disease +28] dies
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[150(perm)]]]=200 hp:150] swipes P1 Assault 1 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:173 cd:1, enfeebled 12, protected 20] for 67 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[150(perm)]]]=200 hp:150] swipes P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:148, summoned, enfeebled 12, protected 20, Disease +28] for 67 damage
+Dead and removed: P1 Assault 0 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:0, enfeebled 12, protected 20, Disease +28]
+TURN 11 ends for P0 Commander [Dracorex Hivegod hp:147]
+------------------------------------------------------------------------
+TURN 12 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:106 cd:1] reduces its timer
+P1 Assault 2 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2] reduces its timer
+P1 Assault 3 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215 cd:1, summoned] reduces its timer
+P1 Assault 5 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92 cd:2] reduces its timer
+P1 Commander [Carnifex Returns hp:300] plays Assault 6 [Carnifexicast: 45/240/4 mythic xeno, (On Play)Summon Carnifex Starcore id[62441], Disease 110, (On Attacked)Enfeeble all 44]
+P1 Assault 6 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4] summons Carnifex Starcore
+P1 Assault 6 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4] plays Assault 7 [Carnifex Starcore: 33/215/3 mythic xeno, Disease 77, Counter 77, (On Attacked)Heal all 44]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:106]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:81, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:106, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:81, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:1]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 5 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92 cd:1]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 6 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 7 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned]
+P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:106, protected 20, Disease +28] attacks P0 Assault 0 [Saiph Starmaw att:[[50(base)+[150(perm)]]]=200 hp:150] for 14 damage
+P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:106, protected 20, Disease +28] diseases P0 Assault 0 [Saiph Starmaw att:[[50(base)+[150(perm)]]]=200 hp:136] for 138
+P1 Assault 1 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:81, summoned, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:147] for 2 damage
+P1 Assault 3 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:145] for 2 damage
+P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered, protected 20] Enfeeble 22 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[150(perm)]]]=200 hp:136, diseased 138] but it evades
+P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered, protected 20] cannot take attack (zeroed)
+TURN 12 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 13 begins for P0 Commander [Dracorex Hivegod hp:143]
+P0 Commander [Dracorex Hivegod hp:143] Heal 10 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[150(perm)]]]=200 hp:136, diseased 138]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[150(perm)]]]=200 hp:136, diseased 138] disease-blocked 10 heal
+P0 Commander [Dracorex Hivegod hp:143] Weaken 6 on P1 Assault 0 [Carnifexicast att:[[45(base)]]=45 hp:106, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:143] Weaken 6 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]]=33 hp:81, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:143] Weaken 6 on P1 Assault 2 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:1, protected 20]
+P0 Commander [Dracorex Hivegod hp:143] Weaken 6 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]]=33 hp:215, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:143] Weaken 6 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]]=22 hp:122, protected 20]
+P0 Commander [Dracorex Hivegod hp:143] Weaken 6 on P1 Assault 5 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 0 [Carnifexicast att:[[45(base)]-6(temp)]=39 hp:106, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:81, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 2 [Carnifexicast att:[[45(base)]-6(temp)]=39 hp:240 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-6(temp)]=16 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 5 [Carnifex Pryer-7 att:[[8(base)]-6(temp)]=2 hp:73 absorb:92 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Sunder 13 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Mimic 6 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+ * Mimicked skill: Enfeeble all 6
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 0 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:106, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:81, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 2 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:215, sundered, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 5 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 6 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 7 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:106, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:81, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 2 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240 cd:1, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:215, sundered, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 5 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92 cd:1, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 6 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 7 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:106, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:81, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 2 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240 cd:1, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:215, sundered, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 5 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92 cd:1, enfeebled 12, protected 20]
+P1 Assault 5 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92 cd:1, enfeebled 12, protected 20] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 6 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 7 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 0 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:106, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:81, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 2 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240 cd:1, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:215, sundered, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 12, protected 20]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[150(perm)]]]=200 hp:136, diseased 128] attacks P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:106, enfeebled 12, protected 20, Disease +28] for 200+12(enfeebled)-[20(protected)]=192 damage
+P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:0, enfeebled 12, protected 20, Disease +28] dies
+On Attacked P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:0, enfeebled 12, protected 20, Disease +28]: Preparing (tail) skill Enfeeble all 44
+P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:0, enfeebled 12, protected 20, Disease +28] Enfeeble 44 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[150(perm)]]]=200 hp:136, diseased 128] but it evades
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[225(perm)]]]=275 hp:136, diseased 128] swipes P1 Assault 1 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:81, summoned, enfeebled 12, protected 20, Disease +28] for 67 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[225(perm)]]]=275 hp:136, diseased 128] swipes P1 Assault 2 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240 cd:1, enfeebled 12, protected 20] for 67 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[225(perm)]]]=275 hp:136, diseased 128] drains 326 hp
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[225(perm)]]]=275 hp:136, diseased 128] disease-blocked 128 heal
+Dead and removed: P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:0, enfeebled 12, protected 20, Disease +28]
+TURN 13 ends for P0 Commander [Dracorex Hivegod hp:143]
+------------------------------------------------------------------------
+TURN 14 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Assault 1 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:173 cd:1] reduces its timer
+P1 Assault 4 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92 cd:1] reduces its timer
+P1 Assault 5 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4] reduces its timer
+P1 Assault 6 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned] reduces its timer
+P1 Commander [Carnifex Returns hp:300] plays Assault 7 [Carnifex Pryer: 15/150/2 mythic xeno, Absorb 180, Disease 55, Mimic 100]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:14, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 1 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:173]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:215, sundered, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 4 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:14, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:173, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:215, sundered, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 3 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 4 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 5 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 6 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 7 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180 cd:2]
+P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:14, summoned, protected 20, Disease +28] attacks P0 Assault 0 [Saiph Starmaw att:[[50(base)+[225(perm)]]]=275 hp:150] for 2 damage
+P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:14, summoned, protected 20, Disease +28] diseases P0 Assault 0 [Saiph Starmaw att:[[50(base)+[225(perm)]]]=275 hp:148] for 105
+P1 Assault 1 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:173, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:143] for 14 damage
+P1 Assault 2 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:215, sundered, summoned, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 3 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, protected 20] Enfeeble 22 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[225(perm)]]]=275 hp:148, diseased 105] but it evades
+P1 Assault 3 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, protected 20] cannot take attack (zeroed)
+P1 Assault 4 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, protected 20, Disease +28] cannot take attack (zeroed)
+TURN 14 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 15 begins for P0 Commander [Dracorex Hivegod hp:129]
+P0 Commander [Dracorex Hivegod hp:129] Heal 10 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[225(perm)]]]=275 hp:148, diseased 105]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[225(perm)]]]=275 hp:148, diseased 105] disease-blocked 10 heal
+P0 Commander [Dracorex Hivegod hp:129] Weaken 6 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]]=33 hp:14, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:129] Weaken 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:173, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:129] Weaken 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:215, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:129] Weaken 6 on P1 Assault 3 [Carnifex Kerakal att:[[22(base)]]=22 hp:122, protected 20]
+P0 Commander [Dracorex Hivegod hp:129] Weaken 6 on P1 Assault 4 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:14, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 1 [Carnifexicast att:[[45(base)]-6(temp)]=39 hp:173, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 3 [Carnifex Kerakal att:[[22(base)]-6(temp)]=16 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 4 [Carnifex Pryer-7 att:[[8(base)]-6(temp)]=2 hp:73 absorb:92, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Sunder 13 on P1 Assault 1 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:173, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Mimic 6 on P1 Assault 3 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+ * Mimicked skill: Enfeeble all 6
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:14, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]-32(temp)]=13 hp:173, sundered, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 3 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 4 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 5 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 6 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 7 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180 cd:2, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:14, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]-32(temp)]=13 hp:173, sundered, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 3 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 4 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 5 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 6 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 7 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180 cd:2, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:14, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]-32(temp)]=13 hp:173, sundered, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 3 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 4 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 12, protected 20, Disease +28]
+P1 Assault 4 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 12, protected 20, Disease +28] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 5 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 6 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 7 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180 cd:2, enfeebled 12, protected 20]
+P1 Assault 7 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180 cd:2, enfeebled 12, protected 20] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:14, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 1 [Carnifexicast att:[[45(base)]-32(temp)]=13 hp:173, sundered, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 3 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 12, protected 20]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[225(perm)]]]=275 hp:148, diseased 95] attacks P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:14, summoned, enfeebled 12, protected 20, Disease +28] for 275+12(enfeebled)-[20(protected)]=267 damage
+P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28] dies
+On Attacked P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28]: Preparing (tail) skill Heal all 44
+P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28] Heal 44 on P1 Assault 1 [Carnifexicast att:[[45(base)]-44(temp)]=1 hp:173, sundered, enfeebled 12, protected 20, Disease +28]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[225(perm)]]]=275 hp:148, diseased 95] takes 77 counter damage from P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[300(perm)]]]=350 hp:71, diseased 95] swipes P1 Assault 1 [Carnifexicast att:[[45(base)]-44(temp)]=1 hp:217, sundered, enfeebled 12, protected 20, Disease +28] for 67 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[300(perm)]]]=350 hp:71, diseased 95] swipes P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, enfeebled 12, protected 20, Disease +28] for 67 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[300(perm)]]]=350 hp:71, diseased 95] drains 401 hp
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[300(perm)]]]=350 hp:71, diseased 95] disease-blocked 95 heal
+Dead and removed: P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28]
+TURN 15 ends for P0 Commander [Dracorex Hivegod hp:129]
+------------------------------------------------------------------------
+TURN 16 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Assault 4 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3] reduces its timer
+P1 Assault 5 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned] reduces its timer
+P1 Assault 6 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180 cd:2] reduces its timer
+P1 Commander [Carnifex Returns hp:300] plays Assault 7 [Carnifexicast: 45/240/4 mythic xeno, (On Play)Summon Carnifex Starcore id[62441], Disease 110, (On Attacked)Enfeeble all 44]
+P1 Assault 7 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4] summons Carnifex Starcore
+P1 Assault 7 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4] plays Assault 8 [Carnifex Starcore: 33/215/3 mythic xeno, Disease 77, Counter 77, (On Attacked)Heal all 44]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifexicast att:[[45(base)]-44(temp)]=1 hp:150, sundered]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:148, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 3 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifexicast att:[[45(base)]-44(temp)]=1 hp:150, sundered, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:148, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 3 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 4 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:1, summoned]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 6 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180 cd:1]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 7 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 8 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned]
+P1 Assault 0 [Carnifexicast att:[[45(base)]-44(temp)]=1 hp:150, sundered, protected 20, Disease +28] attacks P0 Assault 0 [Saiph Starmaw att:[[50(base)+[300(perm)]]]=350 hp:150] for 1 damage
+P1 Assault 0 [Carnifexicast att:[[45(base)]-44(temp)]=1 hp:150, sundered, protected 20, Disease +28] diseases P0 Assault 0 [Saiph Starmaw att:[[50(base)+[300(perm)]]]=350 hp:149] for 138
+P1 Assault 1 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:148, summoned, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:129] for 2 damage
+P1 Assault 2 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, protected 20] Enfeeble 22 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[300(perm)]]]=350 hp:149, diseased 138] but it evades
+P1 Assault 2 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, protected 20] cannot take attack (zeroed)
+P1 Assault 3 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, protected 20, Disease +28] cannot take attack (zeroed)
+TURN 16 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 17 begins for P0 Commander [Dracorex Hivegod hp:127]
+P0 Commander [Dracorex Hivegod hp:127] Heal 10 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[300(perm)]]]=350 hp:149, diseased 138]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[300(perm)]]]=350 hp:149, diseased 138] disease-blocked 10 heal
+P0 Commander [Dracorex Hivegod hp:127] Weaken 6 on P1 Assault 0 [Carnifexicast att:[[45(base)]]=45 hp:150, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:127] Weaken 6 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]]=33 hp:148, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:127] Weaken 6 on P1 Assault 2 [Carnifex Kerakal att:[[22(base)]]=22 hp:122, protected 20]
+P0 Commander [Dracorex Hivegod hp:127] Weaken 6 on P1 Assault 3 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:127] Weaken 6 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:1, summoned, protected 20]
+P0 Commander [Dracorex Hivegod hp:127] Weaken 6 on P1 Assault 6 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 0 [Carnifexicast att:[[45(base)]-6(temp)]=39 hp:150, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:148, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 2 [Carnifex Kerakal att:[[22(base)]-6(temp)]=16 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 3 [Carnifex Pryer-7 att:[[8(base)]-6(temp)]=2 hp:73 absorb:92, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:215 cd:1, summoned, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 6 [Carnifex Pryer att:[[15(base)]-6(temp)]=9 hp:150 absorb:180 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Sunder 13 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:148, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Mimic 6 on P1 Assault 2 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+ * Mimicked skill: Enfeeble all 6
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 0 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:150, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:148, sundered, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 2 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 3 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 4 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 6 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 7 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 8 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:150, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:148, sundered, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 2 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 3 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 4 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 6 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180 cd:1, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 7 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 8 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:150, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:148, sundered, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 2 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 3 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 12, protected 20, Disease +28]
+P1 Assault 3 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 12, protected 20, Disease +28] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 4 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 6 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180 cd:1, enfeebled 12, protected 20]
+P1 Assault 6 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180 cd:1, enfeebled 12, protected 20] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 7 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 8 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 0 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:150, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:148, sundered, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 2 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, enfeebled 12, protected 20]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[300(perm)]]]=350 hp:149, diseased 128] attacks P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:150, enfeebled 12, protected 20, Disease +28] for 350+12(enfeebled)-[20(protected)]=342 damage
+P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:0, enfeebled 12, protected 20, Disease +28] dies
+On Attacked P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:0, enfeebled 12, protected 20, Disease +28]: Preparing (tail) skill Enfeeble all 44
+P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:0, enfeebled 12, protected 20, Disease +28] Enfeeble 44 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[300(perm)]]]=350 hp:149, diseased 128] but it evades
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[375(perm)]]]=425 hp:149, diseased 128] swipes P1 Assault 1 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:148, sundered, summoned, enfeebled 12, protected 20, Disease +28] for 67 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[375(perm)]]]=425 hp:149, diseased 128] swipes P1 Assault 2 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, enfeebled 12, protected 20] for 67 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[375(perm)]]]=425 hp:149, diseased 128] drains 476 hp
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[375(perm)]]]=425 hp:149, diseased 128] disease-blocked 128 heal
+Dead and removed: P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:0, enfeebled 12, protected 20, Disease +28]
+TURN 17 ends for P0 Commander [Dracorex Hivegod hp:127]
+------------------------------------------------------------------------
+TURN 18 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2] reduces its timer
+P1 Assault 4 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215 cd:1, summoned] reduces its timer
+P1 Assault 5 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180 cd:1] reduces its timer
+P1 Assault 6 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:4] reduces its timer
+P1 Assault 7 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:3, summoned] reduces its timer
+P1 Commander [Carnifex Returns hp:300] plays Assault 8 [Carnifex Kerakal: 22/122/1 mythic xeno, Enfeeble all 22, Drain 90, (On Attacked)Jam 3]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:81, sundered, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 2 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 5 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:81, sundered, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:55]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:1]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 5 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 6 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 7 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 8 [Carnifex Kerakal att:[[22(base)]]=22 hp:122 cd:1]
+P1 Assault 0 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:81, sundered, summoned, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 1 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:55, protected 20] Enfeeble 22 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[375(perm)]]]=425 hp:150] but it evades
+P1 Assault 1 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:55, protected 20] cannot take attack (zeroed)
+P1 Assault 2 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 4 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:127] for 2 damage
+P1 Assault 5 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, protected 20, Disease +28] cannot take attack (zeroed)
+TURN 18 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 19 begins for P0 Commander [Dracorex Hivegod hp:125]
+P0 Commander [Dracorex Hivegod hp:125] Weaken 6 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]]=33 hp:81, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:125] Weaken 6 on P1 Assault 1 [Carnifex Kerakal att:[[22(base)]]=22 hp:55, protected 20]
+P0 Commander [Dracorex Hivegod hp:125] Weaken 6 on P1 Assault 2 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:125] Weaken 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:1, protected 20]
+P0 Commander [Dracorex Hivegod hp:125] Weaken 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:125] Weaken 6 on P1 Assault 5 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:125] Weaken 6 on P1 Assault 8 [Carnifex Kerakal att:[[22(base)]]=22 hp:122 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:81, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 1 [Carnifex Kerakal att:[[22(base)]-6(temp)]=16 hp:55, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 2 [Carnifex Pryer-7 att:[[8(base)]-6(temp)]=2 hp:73 absorb:92, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 3 [Carnifexicast att:[[45(base)]-6(temp)]=39 hp:240 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 5 [Carnifex Pryer att:[[15(base)]-6(temp)]=9 hp:150 absorb:180, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 8 [Carnifex Kerakal att:[[22(base)]-6(temp)]=16 hp:122 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Sunder 13 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Mimic 6 on P1 Assault 1 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:55, protected 20]
+ * Mimicked skill: Enfeeble all 6
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:81, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 1 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:55, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 2 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:215, sundered, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 5 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 6 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 7 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 8 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122 cd:1, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:81, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 1 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:55, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 2 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240 cd:1, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:215, sundered, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 5 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 6 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 7 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 8 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122 cd:1, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:81, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 1 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:55, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 2 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 12, protected 20, Disease +28]
+P1 Assault 2 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 12, protected 20, Disease +28] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240 cd:1, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:215, sundered, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 5 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 12, protected 20, Disease +28]
+P1 Assault 5 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 12, protected 20, Disease +28] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 6 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 7 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 8 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122 cd:1, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:81, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 1 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:55, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 3 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240 cd:1, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:215, sundered, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 8 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122 cd:1, enfeebled 12, protected 20]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[375(perm)]]]=425 hp:150] attacks P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:81, summoned, enfeebled 12, protected 20, Disease +28] for 425+12(enfeebled)-[20(protected)]=417 damage
+P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28] dies
+On Attacked P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28]: Preparing (tail) skill Heal all 44
+P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28] Heal 44 on P1 Assault 1 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:55, enfeebled 12, protected 20]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[375(perm)]]]=425 hp:150] takes 77 counter damage from P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[450(perm)]]]=500 hp:73] swipes P1 Assault 1 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:99, enfeebled 12, protected 20] for 67 damage
+P1 Assault 2 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:74, enfeebled 12, protected 20, Disease +28] absorbs 74 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[450(perm)]]]=500 hp:73] swipes P1 Assault 2 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73, enfeebled 12, protected 20, Disease +28] for 0 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[450(perm)]]]=500 hp:73] drains 484 hp
+Dead and removed: P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28]
+TURN 19 ends for P0 Commander [Dracorex Hivegod hp:125]
+------------------------------------------------------------------------
+TURN 20 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Assault 2 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240 cd:1] reduces its timer
+P1 Assault 5 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:3] reduces its timer
+P1 Assault 6 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:2, summoned] reduces its timer
+P1 Assault 7 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122 cd:1] reduces its timer
+P1 Commander [Carnifex Returns hp:300] plays Assault 8 [Carnifex Technician: 15/100/0 mythic xeno, Disease 36, Venom 52, Flurry 3 every 2]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 1 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 2 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:215, sundered, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 4 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 8 [Carnifex Technician att:[[15(base)]]=15 hp:100]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:32]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:215, sundered, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 4 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 5 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 6 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:1, summoned]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 7 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 8 [Carnifex Technician att:[[15(base)]]=15 hp:100, Disease +28]
+P1 Assault 0 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:32, protected 20] Enfeeble 22 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[450(perm)]]]=500 hp:150] but it evades
+P1 Assault 0 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:32, protected 20] cannot take attack (zeroed)
+P1 Assault 1 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 2 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:125] for 14 damage
+P1 Assault 3 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:215, sundered, summoned, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 4 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 7 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, protected 20] Enfeeble 22 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[450(perm)]]]=500 hp:150] but it evades
+P1 Assault 7 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, protected 20] cannot take attack (zeroed)
+P1 Assault 8 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:111] for 15 damage
+P1 Assault 8 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28] activates Flurry x 3
+P1 Assault 8 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:96] for 15 damage
+P1 Assault 8 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:81] for 15 damage
+P1 Assault 8 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:66] for 15 damage
+TURN 20 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 21 begins for P0 Commander [Dracorex Hivegod hp:51]
+P0 Commander [Dracorex Hivegod hp:51] Weaken 6 on P1 Assault 0 [Carnifex Kerakal att:[[22(base)]]=22 hp:32, protected 20]
+P0 Commander [Dracorex Hivegod hp:51] Weaken 6 on P1 Assault 1 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:51] Weaken 6 on P1 Assault 2 [Carnifexicast att:[[45(base)]]=45 hp:240, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:51] Weaken 6 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]]=33 hp:215, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:51] Weaken 6 on P1 Assault 4 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:51] Weaken 6 on P1 Assault 6 [Carnifex Starcore att:[[33(base)]]=33 hp:215 cd:1, summoned, protected 20]
+P0 Commander [Dracorex Hivegod hp:51] Weaken 6 on P1 Assault 7 [Carnifex Kerakal att:[[22(base)]]=22 hp:122, protected 20]
+P0 Commander [Dracorex Hivegod hp:51] Weaken 6 on P1 Assault 8 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 0 [Carnifex Kerakal att:[[22(base)]-6(temp)]=16 hp:32, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 1 [Carnifex Pryer-7 att:[[8(base)]-6(temp)]=2 hp:73 absorb:92, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 2 [Carnifexicast att:[[45(base)]-6(temp)]=39 hp:240, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 4 [Carnifex Pryer att:[[15(base)]-6(temp)]=9 hp:150 absorb:180, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 6 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:215 cd:1, summoned, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 7 [Carnifex Kerakal att:[[22(base)]-6(temp)]=16 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 8 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:100, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Sunder 13 on P1 Assault 0 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:32, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Mimic 6 on P1 Assault 7 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+ * Mimicked skill: Enfeeble all 6
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 0 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:32, sundered, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 1 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 2 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 4 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 5 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 6 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 7 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 8 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:32, sundered, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 1 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 2 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 4 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 5 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 6 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 7 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 8 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:32, sundered, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 1 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 12, protected 20, Disease +28]
+P1 Assault 1 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 12, protected 20, Disease +28] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 2 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 4 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 12, protected 20, Disease +28]
+P1 Assault 4 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 12, protected 20, Disease +28] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 5 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 6 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 7 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 8 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 2 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 6 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215 cd:1, summoned, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 7 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 12, protected 20]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[450(perm)]]]=500 hp:150] attacks P1 Assault 0 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:32, sundered, enfeebled 12, protected 20] for 500+12(enfeebled)-[20(protected)]=492 damage
+P1 Assault 0 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:0, sundered, enfeebled 12, protected 20] dies
+On Attacked P1 Assault 0 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:0, sundered, enfeebled 12, protected 20]: Preparing (tail) skill Jam 3
+P1 Assault 1 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:74, enfeebled 12, protected 20, Disease +28] absorbs 74 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[525(perm)]]]=575 hp:150] swipes P1 Assault 1 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73, enfeebled 12, protected 20, Disease +28] for 0 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[525(perm)]]]=575 hp:150] swipes P1 Assault 2 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240, enfeebled 12, protected 20, Disease +28] for 67 damage
+Dead and removed: P1 Assault 0 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:0, sundered, enfeebled 12, protected 20]
+TURN 21 ends for P0 Commander [Dracorex Hivegod hp:51]
+------------------------------------------------------------------------
+TURN 22 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Assault 4 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:2] reduces its timer
+P1 Assault 5 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215 cd:1, summoned] reduces its timer
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 1 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:173]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 3 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 7 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:173, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 3 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 4 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:1]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 6 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 7 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, Disease +28]
+P1 Assault 0 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 1 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:173, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:51] for 14 damage
+P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:37] for 2 damage
+P1 Assault 3 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 5 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:35] for 2 damage
+P1 Assault 6 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, protected 20] Enfeeble 22 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[525(perm)]]]=575 hp:150] but it evades
+P1 Assault 6 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, protected 20] cannot take attack (zeroed)
+P1 Assault 7 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] cannot take attack (zeroed)
+TURN 22 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 23 begins for P0 Commander [Dracorex Hivegod hp:33]
+P0 Commander [Dracorex Hivegod hp:33] Weaken 6 on P1 Assault 0 [Carnifex Pryer-7 att:[[8(base)]]=8 hp:73 absorb:92, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:33] Weaken 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]]=45 hp:173, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:33] Weaken 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]]=33 hp:215, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:33] Weaken 6 on P1 Assault 3 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:33] Weaken 6 on P1 Assault 4 [Carnifexicast att:[[45(base)]]=45 hp:240 cd:1, protected 20]
+P0 Commander [Dracorex Hivegod hp:33] Weaken 6 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]]=33 hp:215, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:33] Weaken 6 on P1 Assault 6 [Carnifex Kerakal att:[[22(base)]]=22 hp:122, protected 20]
+P0 Commander [Dracorex Hivegod hp:33] Weaken 6 on P1 Assault 7 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 0 [Carnifex Pryer-7 att:[[8(base)]-6(temp)]=2 hp:73 absorb:92, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 1 [Carnifexicast att:[[45(base)]-6(temp)]=39 hp:173, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 3 [Carnifex Pryer att:[[15(base)]-6(temp)]=9 hp:150 absorb:180, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 4 [Carnifexicast att:[[45(base)]-6(temp)]=39 hp:240 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 6 [Carnifex Kerakal att:[[22(base)]-6(temp)]=16 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 7 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:100, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Sunder 13 on P1 Assault 1 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:173, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Mimic 6 on P1 Assault 6 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+ * Mimicked skill: Enfeeble all 6
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 0 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]-32(temp)]=13 hp:173, sundered, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 3 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 4 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240 cd:1, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 6 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 7 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]-32(temp)]=13 hp:173, sundered, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 3 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 4 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240 cd:1, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 6 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 7 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 12, protected 20, Disease +28]
+P1 Assault 0 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:92, enfeebled 12, protected 20, Disease +28] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 1 [Carnifexicast att:[[45(base)]-32(temp)]=13 hp:173, sundered, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 3 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 12, protected 20, Disease +28]
+P1 Assault 3 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 12, protected 20, Disease +28] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 4 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240 cd:1, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 6 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 7 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 1 [Carnifexicast att:[[45(base)]-32(temp)]=13 hp:173, sundered, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 4 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240 cd:1, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 5 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 6 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 12, protected 20]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[525(perm)]]]=575 hp:150] attacks P1 Assault 0 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:73 absorb:74, enfeebled 12, protected 20, Disease +28] for 575+12(enfeebled)-[20(protected)]=567 damage
+P1 Assault 0 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:0 absorb:74, enfeebled 12, protected 20, Disease +28] dies
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[600(perm)]]]=650 hp:150] swipes P1 Assault 1 [Carnifexicast att:[[45(base)]-44(temp)]=1 hp:173, sundered, enfeebled 12, protected 20, Disease +28] for 67 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[600(perm)]]]=650 hp:150] swipes P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, enfeebled 12, protected 20, Disease +28] for 67 damage
+Dead and removed: P1 Assault 0 [Carnifex Pryer-7 att:[[8(base)]-8(temp)]=0 hp:0 absorb:74, enfeebled 12, protected 20, Disease +28]
+TURN 23 ends for P0 Commander [Dracorex Hivegod hp:33]
+------------------------------------------------------------------------
+TURN 24 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Assault 3 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240 cd:1] reduces its timer
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifexicast att:[[45(base)]-44(temp)]=1 hp:106, sundered]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:148, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 2 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 3 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 6 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifexicast att:[[45(base)]-44(temp)]=1 hp:106, sundered, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:148, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 3 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 6 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, Disease +28]
+P1 Assault 0 [Carnifexicast att:[[45(base)]-44(temp)]=1 hp:106, sundered, protected 20, Disease +28] attacks P0 Assault 0 [Saiph Starmaw att:[[50(base)+[600(perm)]]]=650 hp:150] for 1 damage
+P1 Assault 0 [Carnifexicast att:[[45(base)]-44(temp)]=1 hp:106, sundered, protected 20, Disease +28] diseases P0 Assault 0 [Saiph Starmaw att:[[50(base)+[600(perm)]]]=650 hp:149] for 138
+P1 Assault 1 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:148, summoned, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:33] for 2 damage
+P1 Assault 2 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 3 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:31] for 14 damage
+P1 Assault 4 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:17] for 2 damage
+P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, protected 20] Enfeeble 22 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[600(perm)]]]=650 hp:149, diseased 138] but it evades
+P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, protected 20] cannot take attack (zeroed)
+P1 Assault 6 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 6 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] activates Flurry x 3
+P1 Assault 6 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 6 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 6 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] cannot take attack (zeroed)
+TURN 24 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 25 begins for P0 Commander [Dracorex Hivegod hp:15]
+P0 Commander [Dracorex Hivegod hp:15] Heal 10 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[600(perm)]]]=650 hp:149, diseased 138]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[600(perm)]]]=650 hp:149, diseased 138] disease-blocked 10 heal
+P0 Commander [Dracorex Hivegod hp:15] Weaken 6 on P1 Assault 0 [Carnifexicast att:[[45(base)]]=45 hp:106, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:15] Weaken 6 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]]=33 hp:148, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:15] Weaken 6 on P1 Assault 2 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:15] Weaken 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]]=45 hp:240, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:15] Weaken 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]]=33 hp:215, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:15] Weaken 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]]=22 hp:122, protected 20]
+P0 Commander [Dracorex Hivegod hp:15] Weaken 6 on P1 Assault 6 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 0 [Carnifexicast att:[[45(base)]-6(temp)]=39 hp:106, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:148, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 2 [Carnifex Pryer att:[[15(base)]-6(temp)]=9 hp:150 absorb:180, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 3 [Carnifexicast att:[[45(base)]-6(temp)]=39 hp:240, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-6(temp)]=16 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 6 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:100, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Sunder 13 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Mimic 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+ * Mimicked skill: Enfeeble all 6
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 0 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:106, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:148, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 2 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:215, sundered, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 6 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:106, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:148, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 2 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:215, sundered, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 6 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:106, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:148, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 2 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 12, protected 20, Disease +28]
+P1 Assault 2 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 12, protected 20, Disease +28] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 3 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:215, sundered, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 6 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 0 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:106, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 1 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:148, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 3 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 4 [Carnifex Starcore att:[[33(base)]-32(temp)]=1 hp:215, sundered, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 5 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, enfeebled 12, protected 20]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[600(perm)]]]=650 hp:149, diseased 128] attacks P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:106, enfeebled 12, protected 20, Disease +28] for 650+12(enfeebled)-[20(protected)]=642 damage
+P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:0, enfeebled 12, protected 20, Disease +28] dies
+On Attacked P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:0, enfeebled 12, protected 20, Disease +28]: Preparing (tail) skill Enfeeble all 44
+P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:0, enfeebled 12, protected 20, Disease +28] Enfeeble 44 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[600(perm)]]]=650 hp:149, diseased 128] but it evades
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[675(perm)]]]=725 hp:149, diseased 128] swipes P1 Assault 1 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:148, summoned, enfeebled 12, protected 20, Disease +28] for 67 damage
+P1 Assault 2 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:162, enfeebled 12, protected 20, Disease +28] absorbs 87 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[675(perm)]]]=725 hp:149, diseased 128] swipes P1 Assault 2 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:75, enfeebled 12, protected 20, Disease +28] for 0 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[675(perm)]]]=725 hp:149, diseased 128] drains 709 hp
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[675(perm)]]]=725 hp:149, diseased 128] disease-blocked 128 heal
+Dead and removed: P1 Assault 0 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:0, enfeebled 12, protected 20, Disease +28]
+TURN 25 ends for P0 Commander [Dracorex Hivegod hp:15]
+------------------------------------------------------------------------
+TURN 26 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:81, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 1 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 2 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:215, sundered, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 5 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:81, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:215, sundered, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 5 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, Disease +28]
+P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:81, summoned, protected 20, Disease +28] attacks P0 Assault 0 [Saiph Starmaw att:[[50(base)+[675(perm)]]]=725 hp:150] for 2 damage
+P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:81, summoned, protected 20, Disease +28] diseases P0 Assault 0 [Saiph Starmaw att:[[50(base)+[675(perm)]]]=725 hp:148] for 105
+P1 Assault 1 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 2 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:15] for 14 damage
+P1 Assault 3 [Carnifex Starcore att:[[33(base)]-33(temp)]=0 hp:215, sundered, summoned, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, protected 20] Enfeeble 22 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[675(perm)]]]=725 hp:148, diseased 105] but it evades
+P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, protected 20] cannot take attack (zeroed)
+P1 Assault 5 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28] cannot take attack (zeroed)
+TURN 26 ends for P1 Commander [Carnifex Returns hp:300]
+------------------------------------------------------------------------
+TURN 27 begins for P0 Commander [Dracorex Hivegod hp:1]
+P0 Commander [Dracorex Hivegod hp:1] Heal 10 on P0 Assault 0 [Saiph Starmaw att:[[50(base)+[675(perm)]]]=725 hp:148, diseased 105]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[675(perm)]]]=725 hp:148, diseased 105] disease-blocked 10 heal
+P0 Commander [Dracorex Hivegod hp:1] Weaken 6 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]]=33 hp:81, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:1] Weaken 6 on P1 Assault 1 [Carnifex Pryer att:[[15(base)]]=15 hp:150 absorb:180, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:1] Weaken 6 on P1 Assault 2 [Carnifexicast att:[[45(base)]]=45 hp:240, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:1] Weaken 6 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]]=33 hp:215, summoned, protected 20, Disease +28]
+P0 Commander [Dracorex Hivegod hp:1] Weaken 6 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]]=22 hp:122, protected 20]
+P0 Commander [Dracorex Hivegod hp:1] Weaken 6 on P1 Assault 5 [Carnifex Technician att:[[15(base)]]=15 hp:100, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:81, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 1 [Carnifex Pryer att:[[15(base)]-6(temp)]=9 hp:150 absorb:180, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 2 [Carnifexicast att:[[45(base)]-6(temp)]=39 hp:240, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-6(temp)]=27 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-6(temp)]=16 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Weaken 13 on P1 Assault 5 [Carnifex Technician att:[[15(base)]-6(temp)]=9 hp:100, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Sunder 13 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-19(temp)]=3 hp:122, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Mimic 6 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered, protected 20]
+ * Mimicked skill: Enfeeble all 6
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:81, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 1 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 2 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, protected 20, Disease +28]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered, protected 20]
+P0 Structure 0 [Broodmother's Nexus hp:74] Enfeeble 6 on P1 Assault 5 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:81, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 1 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 2 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered, enfeebled 6, protected 20]
+P0 Structure 1 [Oreworks hp:50] Enfeeble 6 on P1 Assault 5 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, enfeebled 6, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:81, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 1 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 12, protected 20, Disease +28]
+P1 Assault 1 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, enfeebled 12, protected 20, Disease +28] absorbs 18 damage
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 2 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 4 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered, enfeebled 12, protected 20]
+P0 Structure 1 [Oreworks hp:50] Strike 6 on P1 Assault 5 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 0 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:81, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 2 [Carnifexicast att:[[45(base)]-19(temp)]=26 hp:240, enfeebled 12, protected 20, Disease +28]
+P0 Structure 1 [Oreworks hp:50] Weaken 12 on P1 Assault 3 [Carnifex Starcore att:[[33(base)]-19(temp)]=14 hp:215, summoned, enfeebled 12, protected 20, Disease +28]
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[675(perm)]]]=725 hp:148, diseased 95] attacks P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:81, summoned, enfeebled 12, protected 20, Disease +28] for 725+12(enfeebled)-[20(protected)]=717 damage
+P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28] dies
+On Attacked P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28]: Preparing (tail) skill Heal all 44
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[675(perm)]]]=725 hp:148, diseased 95] takes 77 counter damage from P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28]
+P1 Assault 1 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:162, enfeebled 12, protected 20, Disease +28] absorbs 87 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[750(perm)]]]=800 hp:71, diseased 95] swipes P1 Assault 1 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:75, enfeebled 12, protected 20, Disease +28] for 0 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[750(perm)]]]=800 hp:71, diseased 95] swipes P1 Assault 2 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:240, enfeebled 12, protected 20, Disease +28] for 67 damage
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[750(perm)]]]=800 hp:71, diseased 95] drains 784 hp
+P0 Assault 0 [Saiph Starmaw att:[[50(base)+[750(perm)]]]=800 hp:71, diseased 95] disease-blocked 95 heal
+Dead and removed: P1 Assault 0 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:0, summoned, enfeebled 12, protected 20, Disease +28]
+TURN 27 ends for P0 Commander [Dracorex Hivegod hp:1]
+------------------------------------------------------------------------
+TURN 28 begins for P1 Commander [Carnifex Returns hp:300]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 0 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 1 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:173]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned]
+P1 Commander [Carnifex Returns hp:300] Enhance Disease 28 on P1 Assault 4 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 0 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 1 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:173, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 2 [Carnifex Starcore att:[[33(base)]-31(temp)]=2 hp:215, summoned, Disease +28]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 3 [Carnifex Kerakal att:[[22(base)]-22(temp)]=0 hp:122, sundered]
+P1 Commander [Carnifex Returns hp:300] Protect 20 on P1 Assault 4 [Carnifex Technician att:[[15(base)]-15(temp)]=0 hp:100, Disease +28]
+P1 Assault 0 [Carnifex Pryer att:[[15(base)]-15(temp)]=0 hp:150 absorb:180, protected 20, Disease +28] cannot take attack (zeroed)
+P1 Assault 1 [Carnifexicast att:[[45(base)]-31(temp)]=14 hp:173, protected 20, Disease +28] attacks P0 Commander [Dracorex Hivegod hp:1] for 14 damage
+P0 Commander [Dracorex Hivegod hp:0] dies
+You lose.
+win%: 0 (0 / 1)
+stall%: 0 (0 / 1)
+loss%: 100 (1 / 1)
+score: 11 (11 / 1)
+win%: 100 (1 / 1)
+stall%: 0 (0 / 1)
+loss%: 0 (0 / 1)
+score: 100 (100 / 1)
