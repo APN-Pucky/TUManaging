@@ -7,6 +7,10 @@ from io import BytesIO
 from collections import OrderedDict
 from argparse import ArgumentParser
 
+from pathlib import Path
+root = "./"
+sys.path.insert(1,root)
+
 #import yaml
 import oyaml as yaml
 
