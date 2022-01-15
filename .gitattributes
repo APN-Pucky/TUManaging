@@ -1,2 +1,0 @@
-*.java filter=git-crypt diff=git-crypt
-*.xml filter=git-crypt diff=git-crypt
