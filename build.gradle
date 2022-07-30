@@ -34,7 +34,7 @@ dependencies {
 
     // Use JUnit test framework
     testImplementation 'junit:junit:4.+'
-	implementation 'org.json:json:20190722'
+	implementation 'org.json:json:20220320'
 	implementation group: 'com.github.weisj', name: 'darklaf-core', version: '2.7.2'
 	//implementation 'com.github.APN-Pucky:TUR:0.2.1'
 	implementation 'com.github.APN-Pucky:TULib:0.3.12'
