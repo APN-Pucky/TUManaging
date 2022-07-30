@@ -20,10 +20,10 @@ import de.neuwirthinformatik.Alexander.TU.TUM.BOT.Bot;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.GlobalBotData;
 import de.neuwirthinformatik.Alexander.TU.TUM.Save.JediDeckGrab;
 import de.neuwirthinformatik.Alexander.TU.TUM.TUO.LSE;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.OP;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Order;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.OP;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Order;
 import de.neuwirthinformatik.Alexander.TU.util.GUI;
 
 public class LiveSimPanel extends JPanel{
@@ -328,7 +328,7 @@ public class LiveSimPanel extends JPanel{
 		p.order = Order.ordered;
 		//p.enemy_ordered = true;
 		p.deck = tuo_deck;
-		String cur_score = String.valueOf(TUO.sim(b, p).WINS);
+		String cur_score = String.valueOf(TUMTUO.sim(b, p).WINS);
 		p.order = Order.random;
 		{ //manual hand ordering
 			int[] cdeck = GlobalData.constructDeck(p.hand).toIDArray();
@@ -345,9 +345,9 @@ public class LiveSimPanel extends JPanel{
 
 		}
 		
-		String auto_score_1 = String.valueOf(TUO.sim(b, p).WINS);
+		String auto_score_1 = String.valueOf(TUMTUO.sim(b, p).WINS);
 		p.hand = cur_own_field.getText();
-		String auto_score_2 = String.valueOf(TUO.sim(b, p).WINS);
+		String auto_score_2 = String.valueOf(TUMTUO.sim(b, p).WINS);
 		result.setText(cur_score + " ( auto: "+ auto_score_1 + ", random: " + auto_score_2 + " )"+ " || " + tuo_deck);// TODO print WR
 		
 		

@@ -12,6 +12,9 @@ import javax.swing.JTabbedPane;
 
 import org.json.JSONObject;
 
+import com.github.weisj.darklaf.LafManager;
+import com.github.weisj.darklaf.theme.DarculaTheme;
+
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.Bot;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.GlobalBotData;
 import de.neuwirthinformatik.Alexander.TU.TUM.Save.JediDeckGrab;
@@ -22,7 +25,7 @@ import de.neuwirthinformatik.Alexander.TU.util.Wget;
 public class TUM {
 
 	static {
-		GUI.setLookAndFeel();
+		LafManager.install(new DarculaTheme());
 	}
 	public JFrame frame;
 	public static String start_time = time();

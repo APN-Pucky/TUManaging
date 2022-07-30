@@ -13,10 +13,10 @@ import de.neuwirthinformatik.Alexander.TU.TUM.SettingsPanel.OS;
 import de.neuwirthinformatik.Alexander.TU.TUM.TUM;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.Bot;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.GlobalBotData;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.OP;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.OP;
 import de.neuwirthinformatik.Alexander.TU.util.StringUtil;
 
-public class TUO 
+public class TUMTUO 
 {
 	public static final String wd="";
 	//private static File c = new File("data/customdecks.txt");

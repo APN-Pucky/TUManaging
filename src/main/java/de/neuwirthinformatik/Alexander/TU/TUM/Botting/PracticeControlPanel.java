@@ -13,12 +13,12 @@ import de.neuwirthinformatik.Alexander.TU.TUM.BOT.Bot;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.GlobalBotData;
 import de.neuwirthinformatik.Alexander.TU.TUM.Save.JediDeckGrab;
 import de.neuwirthinformatik.Alexander.TU.TUM.TUO.LSE;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Mode;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.OP;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Order;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Result;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Mode;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.OP;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Order;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Result;
 import de.neuwirthinformatik.Alexander.TU.util.GUI;
 
 public class PracticeControlPanel  extends JPanel{
@@ -121,7 +121,7 @@ public class PracticeControlPanel  extends JPanel{
 					p.mode = Mode.pvp;
 					p.op = OP.sim;
 					p.fight_surge = is_surge?"surge":"fight";
-					Result r = TUO.sim(b, p);
+					Result r = TUMTUO.sim(b, p);
 					data[j][7] = Double.valueOf(r.WINS);
 					data[j][8] = Double.valueOf(0);
 				}
@@ -207,7 +207,7 @@ public class PracticeControlPanel  extends JPanel{
 					p.mode = Mode.pvp;
 					p.op = OP.sim;
 					p.fight_surge = is_surge?"surge":"fight";
-					Result r = TUO.sim(b, p);
+					Result r = TUMTUO.sim(b, p);
 					data[j][7] = Double.valueOf(r.WINS);
 					data[j][8] = Double.valueOf(0);
 				}

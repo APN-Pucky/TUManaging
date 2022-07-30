@@ -24,12 +24,12 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import de.neuwirthinformatik.Alexander.TU.Basic.Card;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Dom;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Endgame;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Mode;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.OP;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Order;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Dom;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Endgame;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Mode;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.OP;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Order;
 import de.neuwirthinformatik.Alexander.TU.util.GUI;
 import de.neuwirthinformatik.Alexander.TU.util.Task;
 

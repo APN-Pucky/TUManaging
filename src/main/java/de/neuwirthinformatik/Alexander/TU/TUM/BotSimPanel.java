@@ -10,10 +10,10 @@ import de.neuwirthinformatik.Alexander.TU.Basic.Deck;
 import de.neuwirthinformatik.Alexander.TU.Basic.Deck.Type;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.Bot;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.GlobalBotData;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Order;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Result;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Order;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Result;
 import de.neuwirthinformatik.Alexander.TU.util.GUI;
 
 public class BotSimPanel extends JPanel {
@@ -125,7 +125,7 @@ public class BotSimPanel extends JPanel {
 			Param    p = b.getOffParamWithDom(TUM.settings.sim_iter());
 			p.order = order;
 			p.deck = d;
-			Result r = TUO.sim(b,p);
+			Result r = TUMTUO.sim(b,p);
 			data[j] = new Object[]{b.getName(),b.getGuild(),d, r.SCORE, r.WINS, r.STALLS, r.LOSSES};
 			return b +": " +r.WINS+ "% (" + r.SCORE+ "): " + d;
 		});
@@ -157,7 +157,7 @@ public class BotSimPanel extends JPanel {
 				Param p = b.getOffParamWithDom(TUM.settings.sim_iter());
 				p.order = order;
 				p.deck = d;
-				Result r = TUO.sim(b,p);
+				Result r = TUMTUO.sim(b,p);
 				data[j] = new Object[]{b.getName(),b.getGuild(),d, r.SCORE, r.WINS, r.STALLS, r.LOSSES};
 				return b +": " +r.WINS+ "% (" + r.SCORE+ "): " + d;
 			});
@@ -182,7 +182,7 @@ public class BotSimPanel extends JPanel {
 		TUM.pp.forEach("Benchmarking-Simming Bots", bots, (b,j) -> {
 			Param p = b.getOffParamWithDom(TUM.settings.sim_iter());
 			p.order = Order.random;
-			Result r = TUO.sim(b, p);
+			Result r = TUMTUO.sim(b, p);
 			String deck = GlobalData.getDeckString(b.getOffDeck());
 			data[j] = new Object[]{b.getName(),b.getGuild(),deck, r.SCORE, r.WINS, r.STALLS, r.LOSSES};
 			return b +": " +r.WINS+ "% (" + r.SCORE+ "): " + deck;
@@ -210,7 +210,7 @@ public class BotSimPanel extends JPanel {
 			Param p = b.getOffParamWithDom(TUM.settings.sim_iter());
 			p.deck = d;
 			p.order = Order.ordered;
-			Result r = TUO.sim(b, p);
+			Result r = TUMTUO.sim(b, p);
 			
 			data[j] = new Object[]{b.getName(),b.getGuild(),d, r.SCORE, r.WINS, r.STALLS, r.LOSSES};
 			return b +": " +r.WINS+ "% (" + r.SCORE+ "): " + d;
@@ -236,7 +236,7 @@ public class BotSimPanel extends JPanel {
 		TUM.pp.forEach("Benchmarking-Simming Bots", bots, (b,j) -> {
 			Param p = b.getOffParamWithDom(TUM.settings.sim_iter());
 			p.order = Order.flexible;
-			Result r = TUO.sim(b, p);
+			Result r = TUMTUO.sim(b, p);
 			String deck = GlobalData.getDeckString(b.getOffDeck());
 			data[j] = new Object[]{b.getName(),b.getGuild(),deck, r.SCORE, r.WINS, r.STALLS, r.LOSSES};
 			return b +": " +r.WINS+ "% (" + r.SCORE+ "): " + deck;
@@ -264,7 +264,7 @@ public class BotSimPanel extends JPanel {
 			String d = b.climbDeck(order);
 			Param p = new Param(d, TUM.settings.sim_iter());
 			p.order = order;
-			Result r = TUO.sim(b,p);
+			Result r = TUMTUO.sim(b,p);
 			
 			data[j] = new Object[]{b.getName(),b.getGuild(),d, r.SCORE, r.WINS, r.STALLS, r.LOSSES};
 			return b +": " +r.WINS+ "% (" + r.SCORE+ "): " + d;
@@ -301,7 +301,7 @@ public class BotSimPanel extends JPanel {
 			String d = b.fundClimbDeck(order);
 			Param p = new Param(d, TUM.settings.sim_iter());
 			p.order = order;
-			Result r = TUO.sim(b,p);
+			Result r = TUMTUO.sim(b,p);
 			
 			data[j] = new Object[]{b.getName(),b.getGuild(),d, r.SCORE, r.WINS, r.STALLS, r.LOSSES};
 			return b +": " +r.WINS+ "% (" + r.SCORE+ "): " + d;

@@ -16,11 +16,11 @@ import de.neuwirthinformatik.Alexander.TU.TUM.BOT.CreatorV2.CreatorV2Return;
 import de.neuwirthinformatik.Alexander.TU.TUM.Save.GameSaver;
 import de.neuwirthinformatik.Alexander.TU.TUM.Save.JediDeckGrab;
 import de.neuwirthinformatik.Alexander.TU.TUM.TUO.LSE;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Dom;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Mode;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Order;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Dom;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Mode;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Order;
 import de.neuwirthinformatik.Alexander.TU.util.Curl;
 
 public class Bot {
@@ -138,7 +138,7 @@ public class Bot {
 
 	public void updateInv(int[] inv) {
 		this.inv = inv;
-		TUO.updateOwnedCards(this, inv, restore);
+		TUMTUO.updateOwnedCards(this, inv, restore);
 	}
 	
 	public void updateRestore(int[] r)
@@ -172,7 +172,7 @@ public class Bot {
 	public void updateDeck(int[] off, int[] def) {
 		off_deck = off;
 		def_deck = def;
-		TUO.updateGauntlet(this, def_deck);
+		TUMTUO.updateGauntlet(this, def_deck);
 	}
 
 	public void updateData(int[] ms) {
@@ -321,12 +321,12 @@ public class Bot {
 		}
 	}
 
-	public TUO.Param getOffParamWithDom(int itr) {
+	public TUMTUO.Param getOffParamWithDom(int itr) {
 		return getOffParamWithDom(TUM.settings.enemy_deck(), itr);
 	}
 
 	//AH FIX, Fake DOM => YF
-	public TUO.Param getOffParamWithDom(String d, int iter) {
+	public TUMTUO.Param getOffParamWithDom(String d, int iter) {
 		Param p = new Param(GlobalData.getDeckString(getSimOffDeck()), d, iter);
 		if (GlobalData.isDominion(off_deck[1]))
 			p.deck += ", " + GlobalData.getNameAndLevelByID(off_deck[1]);
@@ -337,16 +337,16 @@ public class Bot {
 		return p;
 	}
 
-	public TUO.Param getDefParamWithDom() {
+	public TUMTUO.Param getDefParamWithDom() {
 		return getDefParamWithDom(0);
 	}
 
-	public TUO.Param getDefParamWithDom(int itr) {
+	public TUMTUO.Param getDefParamWithDom(int itr) {
 		return getDefParamWithDom(TUM.settings.enemy_deck(), itr);
 	}
 
 	//TODO NEEDS HEAVY TESTING
-	public TUO.Param getDefParamWithDom(String d, int iter) {
+	public TUMTUO.Param getDefParamWithDom(String d, int iter) {
 		Param p = new Param(GlobalData.getDeckString(getSimDefDeck()), d, iter);
 		if (GlobalData.isDominion(def_deck[1]))
 			p.deck += ", " + GlobalData.getNameAndLevelByID(def_deck[1]);
@@ -355,21 +355,21 @@ public class Bot {
 		return p;
 	}
 
-	public TUO.Result simOffDeck() {
+	public TUMTUO.Result simOffDeck() {
 		Param p = getOffParamWithDom(TUM.settings.sim_iter());
-		return TUO.sim(this, p);
+		return TUMTUO.sim(this, p);
 	}
 
-	public TUO.Result simDefDeck() {
+	public TUMTUO.Result simDefDeck() {
 		Param p = getDefParamWithDom(TUM.settings.sim_iter());
-		return TUO.sim(this, p);
+		return TUMTUO.sim(this, p);
 	}
 
 	public String reorderDeck() {
 		Param p = getOffParamWithDom(TUM.settings.reorder_iter());
 
 		p.order = Order.ordered;
-		String r = TUO.reorder(this, p);
+		String r = TUMTUO.reorder(this, p);
 		return r;
 	}
 
@@ -383,7 +383,7 @@ public class Bot {
 		Param p = getOffParamWithDom(TUM.settings.sim_iter());
 		p.iterations= TUM.settings.climb_iter();	
 		p.order = order;
-		String r = TUO.climb(this, p);
+		String r = TUMTUO.climb(this, p);
 		return r;
 	}
 
@@ -398,7 +398,7 @@ public class Bot {
 		p.iterations= TUM.settings.climb_iter();	
 		p.fund = getFund();
 		p.order = order;
-		String r = TUO.climb(this, p);
+		String r = TUMTUO.climb(this, p);
 		return r;
 	}
 

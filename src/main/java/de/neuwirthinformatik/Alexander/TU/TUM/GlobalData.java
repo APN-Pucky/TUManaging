@@ -430,7 +430,33 @@ public class GlobalData extends de.neuwirthinformatik.Alexander.TU.Basic.GlobalD
 		return constructDeck(deck).toIDArray();
 	}
 	
+
 	public static Deck constructDeck(String deck)
+	{
+		int com=0,dom=0;
+		deck = GlobalData.removeHash(deck);
+		String[] ss = deck.split(", *");
+		ArrayList ids = new ArrayList<Integer>();
+		for(String s :ss) {
+			int id = getIDByNameAndLevel(s);
+			if(isCommander(id)){
+				com = id;
+			}
+			else if(isDominion(id)){
+				dom = id;
+			}
+			else {
+				ids.add(id);
+			}
+		}
+		int[] idss = new int[ids.size()];
+		for(int i = 0; i < idss.length; i++) {
+			idss[i] = (int) ids.get(i);
+		}
+		return new Deck(com,dom,idss);
+	}
+	@Deprecated
+	public static Deck constructDeckOld(String deck)
 	{
 		deck = GlobalData.removeHash(deck);
 		String[] ss = deck.split(", *");

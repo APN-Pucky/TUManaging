@@ -9,11 +9,11 @@ import de.neuwirthinformatik.Alexander.TU.Basic.Card;
 import de.neuwirthinformatik.Alexander.TU.TUM.GlobalData;
 import de.neuwirthinformatik.Alexander.TU.TUM.TUM;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.Bot;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Mode;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.OP;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Order;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Result;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Mode;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.OP;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Order;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Result;
 
 public class LSE {
 
@@ -158,7 +158,7 @@ public class LSE {
 		p.op = OP.reorder;
 		p.order = Order.ordered;
 		// p.enemy_ordered = true;
-		String tuo_deck = TUO.climbAny(b, p);
+		String tuo_deck = TUMTUO.climbAny(b, p);
 		/**
 		 * p.deck = tuo_deck; String cur_score = String.valueOf(TUO.sim(b,
 		 * p).WINS); p.order = "random"; String auto_score_1 =
@@ -170,7 +170,7 @@ public class LSE {
 
 		p.deck = tuo_deck;
 		if(TUM.settings.lse_out()) {
-		Result r = TUO.sim(b, p);
+		Result r = TUMTUO.sim(b, p);
 		String cur_win = String.valueOf(r.WINS);
 		String cur_score = String.valueOf(r.SCORE);
 		TUM.log.m("WINS: " + cur_win + " (SCORE: " + cur_score + ")","LSE",b.getName());

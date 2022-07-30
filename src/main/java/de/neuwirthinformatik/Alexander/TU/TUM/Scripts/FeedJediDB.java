@@ -7,7 +7,7 @@ import de.neuwirthinformatik.Alexander.TU.Basic.Card;
 import de.neuwirthinformatik.Alexander.TU.TUM.TUM;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.Bot;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.GlobalBotData;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Mode;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Mode;
 
 public class FeedJediDB {
 	

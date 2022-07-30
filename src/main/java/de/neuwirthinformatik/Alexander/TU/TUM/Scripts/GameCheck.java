@@ -14,14 +14,14 @@ import java.util.stream.Collectors;
 import de.neuwirthinformatik.Alexander.TU.TUM.GlobalData;
 import de.neuwirthinformatik.Alexander.TU.TUM.Log;
 import de.neuwirthinformatik.Alexander.TU.TUM.TUM;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Result;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Dom;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Endgame;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Mode;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.OP;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param.Order;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Result;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Dom;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Endgame;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Mode;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.OP;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param.Order;
 
 public class GameCheck {
 		
@@ -53,7 +53,7 @@ public class GameCheck {
                 String g_bge = cells[4];
                 String ye = cells[5];
                 String ee = cells[6];
-                Result r = TUO.sim(new Param(own_deck,enemy_deck,OP.sim,Order.exact_ordered,Mode.get(mode),Dom.dom_owned,"","",ye,ee,g_bge,new double[] {iter},0,Endgame.none,"enemy:exact-ordered")); 
+                Result r = TUMTUO.sim(new Param(own_deck,enemy_deck,OP.sim,Order.exact_ordered,Mode.get(mode),Dom.dom_owned,"","",ye,ee,g_bge,new double[] {iter},0,Endgame.none,"enemy:exact-ordered")); 
                 if(win == 1 && r.won(Mode.get(mode)) <confidence || win == 0 && r.lost(Mode.get(mode)) <confidence)
                 {	
                 	if(r.won(Mode.get(mode))<eps || r.lost(Mode.get(mode))<eps)

@@ -29,8 +29,8 @@ import de.neuwirthinformatik.Alexander.TU.Basic.Deck.Type;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.Bot;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.CreatorV2.CreatorV2Return;
 import de.neuwirthinformatik.Alexander.TU.TUM.BOT.GlobalBotData;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO;
-import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUO.Param;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO;
+import de.neuwirthinformatik.Alexander.TU.TUM.TUO.TUMTUO.Param;
 import de.neuwirthinformatik.Alexander.TU.util.GUI;
 import de.neuwirthinformatik.Alexander.TU.util.Pair;
 import de.neuwirthinformatik.Alexander.TU.util.StringUtil;
@@ -465,7 +465,7 @@ public class ViewBot {
 				log("Mass sim progress: " + (i * 100) / ac.size() + "%");
 				Param p = b.getOffParamWithDom(TUM.settings.sim_iter());
 				p.deck = data[i][0] + ", " + p.deck;
-				data[i][2] = TUO.sim(b, p).WINS;
+				data[i][2] = TUMTUO.sim(b, p).WINS;
 			}
 		}
 		return data;
